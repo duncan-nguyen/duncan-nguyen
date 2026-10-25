@@ -61,10 +61,3 @@ I build LLM-based systems that reason over structured knowledge, and I study the
   <img src="https://skillicons.dev/icons?i=py,pytorch,docker,git,fastapi,linux,bash&perline=7" alt="Python, PyTorch, Docker, Git, FastAPI, Linux, Bash" /><br />
   <sub>also: Hugging Face · LangChain · OpenAI API</sub>
 </p>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duncan-nguyen/duncan-nguyen/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/duncan-nguyen/duncan-nguyen/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
-</picture>
